@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/dunk066/dunk066/master/assets/Kush%20Mishra%20Banner.png">
 
 <h2> Hey there! I'm Kush (dunk),an ACM - ICPC regionalist.</h2>
 
