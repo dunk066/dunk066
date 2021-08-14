@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/dunk066">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dunk066&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunk066&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kush-mishra-28940016a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mishrakush@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kush-mishra-28940016a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kush%20Mishra-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mishrakush@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mishrakush1999@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Kush](https://github.com/dunk066)
