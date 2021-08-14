@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/dunk066/dunk066/master/assets/Kush%20Mishra%20Banner.png">
 
 <h2> Hey there! I'm Kush (dunk),an ACM - ICPC regionalist.</h2>
 
